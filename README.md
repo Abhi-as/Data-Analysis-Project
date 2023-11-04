@@ -13,7 +13,7 @@ The Pizza Sales Project is a comprehensive data analysis and reporting endeavor 
 **Power BI**
 1. Connect MySQL Server to Power BI.
 2. Data Cleaning through Power Query.
-3. Data Processiong by using DAX.
+3. Data processing by using DAX.
 4. Build a Dynamic Dashboard by Data Visualization.
 
 ## Problem Statement
@@ -42,7 +42,7 @@ The Pizza Sales Project is a comprehensive data analysis and reporting endeavor 
 ## Files
 **Pizza Report: Business Questions, Queries & Image Results - [Documentation](Pizza%20Sales%20Report.pdf)**
 
-**Pizza Sales Dashborad: [Dashboard](Pizza%20Sales%20Dashborad.pbix)**
+**Pizza Sales Dashborad: [Dashboard](Pizza%20Sales%20Dashboard.pbix)**
 
 
-For a more thorough understanding, please check these [MySQL Queries](Pizza%20Sales%20Queries.sql) and [Raw Data](Pizza%20Sales%20Data.csv) files, which contains valuable information and important details.
+For a more thorough understanding, please check these [MySQL Queries](Pizza%20Sales%20Queries.sql) and [Raw Data](Pizza%20Sales%20Data.csv) files, which contain valuable information and important details.
