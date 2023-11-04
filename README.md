@@ -6,7 +6,7 @@ The Pizza Sales Project is a comprehensive data analysis and reporting endeavor 
 
 **MySQL Server**
 1. Import Data to MySQL Server.
-2. Create Database into MySQL Server
+2. Create Database into MySQL Server.
 3. Write Queries in MySQL Server Database.
 4. Create a Report from MySQL into PDF.
 
@@ -19,20 +19,21 @@ The Pizza Sales Project is a comprehensive data analysis and reporting endeavor 
 ## Problem Statement
 
 **KPI's Requirement**
-1. Total Revenue
-2. Average Order Value
-3. Total Pizzas Sold
-4. Total Orders
-5. Average Pizzas Per Order
+- Total Revenue.
+- Average Order Value.
+- Total Pizzas Sold.
+- Total Orders.
+- Average Pizzas Per Order.
 
-**CHARTS REQUIREMENT**
-1. Daily Trend for Total Orders.
-2. Monthly Trend for Total Orders.
-3. Percentage of Sales by Pizza Category.
-4. Percentage of Sales by Pizza Size.
-5. Total Pizzas Sold by Pizza Category.
-6. Top 5 Best Sellers by Revenue, Total Quantity, and Total Orders.
-7. Bottom 5 Worst Sellers by Revenue, Total Quantity, and Total Orders.
+**Charts Requirement**
+- Daily Trend for Total Orders.
+- Monthly Trend for Total Orders.
+- Percentage of Sales by Pizza Category.
+- Percentage of Sales by Pizza Size.
+- Total Pizzas Sold by Pizza Category.
+- Top 5 Best Sellers by Revenue, Total Quantity, and Total Orders.
+- Bottom 5 Worst Sellers by Revenue, Total Quantity, and Total Orders.
+
 ## Software Used
 - **Microsoft Excel:** Version LTSC Professional Plus 2021
 - **MySQL Server:** Version 8.0.34
